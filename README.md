@@ -21,3 +21,6 @@ The program uses the **Mifflin-St Jeor Equation** to calculate Basal Metabolic R
 
    ```bash
    gcc calorie_calculator.c -o calorie_calculator
+
+## screenshot
+![image](Screenshot_2025-06-09-18-48-43-72_e7a1c070c91bb22818fc593e2a76b418.jpg)
